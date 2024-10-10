@@ -7,6 +7,7 @@
 // @match        https://www.dekudeals.com/*
 // @run-at       document-end
 // @grant        none
+// @downloadURL  https://github.com/redphx/better-dekudeals-vn/raw/refs/heads/main/better-dekudeals.user.js
 // ==/UserScript==
 'use strict';
 
